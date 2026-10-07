@@ -2,8 +2,8 @@ package addition;
 
 public class add {
 	void sum() {
-	int a=123;
-	int b=434;
+	int a=123456;
+	int b=434646;
 	int sum=(a+b);
 	System.out.println("sum = " + sum);}
 		void sub() {
